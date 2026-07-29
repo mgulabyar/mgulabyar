@@ -1,2 +1,7 @@
+<div align="center">
+
 # Hi there, I'm M. Gulab Yar
-### Full-Stack & Automation Engineer
+
+<img src="https://demolab.com" alt="Typing SVG" />
+
+</div>
